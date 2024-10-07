@@ -6,7 +6,7 @@ import pyproj
 import plotly.graph_objs as go
 import folium
 from streamlit_folium import st_folium
-import modin.pandas as pd
+import pandas as pd
 from folium.plugins import LocateControl, MarkerCluster
 from bs4 import BeautifulSoup
 from PIL import Image
