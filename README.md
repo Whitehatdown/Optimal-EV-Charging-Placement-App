@@ -9,6 +9,13 @@ In our project, we focused on the following goals:
 4) Model Assessment: We evaluated various ML models and compared their effectiveness to find the most suitable approach.
 Practical Applications: Our findings aim to improve understanding of optimal EVCS placement and support automated decision-making for expanding EV charging infrastructure.
 
+![image](https://github.com/user-attachments/assets/4ddde4d1-3e86-4e94-8bf8-c69202f8ed4b)
+
+Dashboard
+This dashboard is built on Streamlit, a Python library designed for open-source interactive web applications and hosted on Hugging Face. Our dashboard shows the map of Saarbrücken, Germany, with the points-of-interest, existing EV charging stations, residential and commercial places, and the optimal location of new EV charging stations predicted by the model marked on the map. The app provides one with an interactive view of some features that were either collected and used for training the model, as well as final results and exploratory data analysis graphs such as a pie chart of the number of different types of infrastructure in Saarbrücken-based examples, in order to render the data in order for model performance analysis and visualization. 
+
+
+
 
 
 
